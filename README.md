@@ -1,6 +1,4 @@
 # Tofu-Thermal-Small-Object-Dataset
-thermal object dataset
-
 <center><figure><img src="https://resource-wangsu.helplook.net/docker_production/6nxkbc/article/GExGcZ/6708d5b14eb4d.jpg" alt="" width=900 ><figcaption></figcaption></figure></center>
 
 <center><figure><img src="https://resource-wangsu.helplook.net/docker_production/4lnqex/article/IPzAr71G/676a5bd68761f.jpg" alt="" width=900 ><figcaption></figcaption></figure></center>
